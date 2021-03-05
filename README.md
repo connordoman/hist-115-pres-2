@@ -2,7 +2,7 @@
 
 ## Treaty of Brest-Litovsk  
 
-1. War between [Germany, Austria-Hungary, Bulgaria, Turkey] and [Russia] is over.  
+1. War between Germany, Austria-Hungary, Bulgaria, and Turkey and Russia is over.  
 
 2. No more provocation between opposing forces.
 
