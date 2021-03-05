@@ -6,9 +6,9 @@
 
 2. No more provocation between opposing forces.
 
-3. Russia will concede all territories west of the agreed upon line, Germany and A-H will manage these territories.
+3. Russia will concede all territories west of the agreed upon line, Germany and Austria-Hungary will manage these territories.
 
-4. Germany will exit Russia east from of this line. Anatolia will be returned to Turkey. Russia will permit sovereignty to Ardakhan, Kars, and Batum.
+4. Germany will exit Russia east of this line. Anatolia will be returned to Turkey. Russia will permit sovereignty to Ardakhan, Kars, and Batum.
 
 5. Russia will demobilize their army. Warships will be docked or disarmed. Allied ships in Russian territory are considered Russian. Mines must be removed from the Arctic Ocean, Baltic, and Black Seas. Merchant ships must have free movement.
 
