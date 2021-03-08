@@ -1,4 +1,4 @@
-# Germany and Russia and the Treaty of Brest-Litovsk
+# Germany & Russia and the Treaty of Brest-Litovsk
 
 ## Treaty of Brest-Litovsk  
 
@@ -34,7 +34,7 @@
 
 ### Articles  
 
-#### Section I – Germany Colonies  
+#### Section I – German Colonies  
 
 118. Germany relinquishes all territory taken from the Allies. Germany will obey all agreements.
 
@@ -54,11 +54,11 @@
 
 126. Germany will abide by agreements made by the Allies regarding trade of arms and alcohol and will obey existing treaties.
 
-127. Native inhabitants of these territories are diplomatically protected by their home government.
+127. Native inhabitants of these territories are diplomatically protected by their home gov't.
 
 #### Section II – China  
 
-128. Germany renounces all gains taken from China and relinquishes the chance at reparataions.  
+128. Germany renounces all gains taken from China and relinquishes the chance at requesting reparations.  
 
 129. Germany will obey existing treaties with China, though China is not beholden to its terms.
 
@@ -68,7 +68,7 @@
 
 132. Germany will abolish leases of Hankow and Tientsin. China will allow international residence and trade in these areas. Allied powers property rights will not be affected.
 
-133. Germany waives all claims against the Chinese government.
+133. Germany waives all claims against the Chinese gov't.
 
 134. Germany property in at Shameen in Canton is returned to Britain. Germain property in French Shanghai is returned to France.
 
@@ -131,3 +131,47 @@
 157. German property in these territories is relinquished to Japan.
 
 158. Germany has 3 months to comply.
+
+## Questions
+
+- Compare and contrast the Treaty imposed by Germany on Russia with the Versailles Treaty
+
+  - Brest-Litovsk benefitted Germany greatly, but mostly in terms of land. The direct economic impact on Russia from the agreement was minimal.
+
+  - Versailles had Germany lose much land, resources, and be forced to pay reparations to most signatories.
+
+- Examine the costs and consequences to Russia. Why did Russia agree to this?
+
+  - Russia loses a lot of territory, ports, and its former territories are occupied. It receives its POWs, keeps its capital, and is no longer at war. Russia agreed to this as it was entering violent revolution and civil war.
+
+- Who would gain, and who would lose by this settlement? Why was it imposed, and by whom?
+
+  - Brest-Litovsk was imposed by Germany and benefits them greatly. WWI was unpopular with the Russian people due to economic cost and huge casualties, and revolution was affecting their warfighting ability.
+
+- What did this state gain, or lose, at Paris?
+
+  - Germany was considered the main aggressor of WWI, and lost greatly at the treaty of Versailles. Seized European and overseas territories were returned to other empires or home nations, economic agreements were terminated, and Germany was forced to pay reparations to most signatories.
+
+- What were their national objectives?
+
+  - Germany was effectively a military state by this time and wanted to expand their empire and position in Europe. At the time of signing, they needed to end the war to survive.
+
+- Was their diplomacy effective?
+
+  - No, they lost more than they gained in the war and subsequently destroyed their economy.
+
+- Were they satisfied or dis-satisfied with the outcome?
+
+  - Dissatisfied. Their economy didn't stabilize until after WWII, or even later.
+
+- Does this explain future behaviour?
+
+  - Yes. The now economically populus was frustrated, and this gave rise to Adolf Hitler's policies.
+
+- Try to place the reparation in the context of the Paris Peace Conference: who was most responsible?
+
+  - Germany was most responsible for reparations after the war.
+
+- Create a thesis for the presentation.
+
+  - Ending war with Germany was necessary for Russia's survival, and as they were losing on the western front, Germany capitalized on this for gains in their treaty to offset inevitable loss at Versailles.
